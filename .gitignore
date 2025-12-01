@@ -3,3 +3,4 @@ zig-out/
 *.o
 aoc.sh
 input.txt
+example.txt
